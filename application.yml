@@ -2,4 +2,4 @@ microservice:
    prakat-service:
        my-service:
            endpoint:
-                uri: localhost://ajay/hellow
+                uri: localhost://ajay/hello
